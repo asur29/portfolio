@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+# React Portfolio Template
 
-You can use the [editor on GitHub](https://github.com/asur29/1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Minimal Portfolio template for Developers/Designers built with React. Use it to showcase your work, testimonials and other information to clients.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Demo - https://react-portfolio-template.netlify.com/
 
-### Markdown
+# Preview - 
+![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/16558205/59826999-314ace00-9355-11e9-9581-92c6fd160667.gif)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# The Data can be customised in the src/yourdata.js
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+This repo contains an easy-to-customize personal portfolio template that was created with React. It is lightweight and fully responsive, as well as comes with the Awesome Animations.
 
-[Link](url) and ![Image](src)
-```
+## Features 
+* Production Ready
+* Fully Responsive
+* Easy To Customize and Personalise
+* Amazing Animations
+* Minimal & Modern Design
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## How to use
+1.Clone/Download the repo.
+2.Run npm install or yarn install.
+3.Change the values in src/yourdata.js to suit your use-case.
+4.Run npm start or yarn start to start the local dev server port 3000.(http://localhost:3000).
 
-### Jekyll Themes
+# Full Preview - 
+![portfolio](https://user-images.githubusercontent.com/16558205/59826731-7d494300-9354-11e9-92dd-46f7057b6ead.png)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/asur29/1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+License
+Completely free (MIT)!
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Follow Me - 
+[Portfolio](http://chetanverma.com/)
+[Behance](https://www.behance.net/chetanverma)
+[Dribbble](https://dribbble.com/chetanverma)
+[Instagram](https://www.instagram.com/cv.uidesign/)
+
+
+
+
+
+
